@@ -1,0 +1,17 @@
+{
+  "name": "creating-csv-file-with-cypress",
+  "version": "1.0.0",
+  "description": "creating csv file with cy.write function  ",
+  "main": "index.ts",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run"
+  },
+  "author": "Alline",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.8.0",
+    "@faker-js/faker": "^7.5.0",
+    "typescript": "^4.7.4"
+  }
+}
